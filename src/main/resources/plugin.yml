@@ -1,0 +1,11 @@
+name: Artemis
+version: '${project.version}'
+main: me.gitatmanu.artemis.Artemis
+api-version: 1.17
+authors: [ gitatmanu ]
+description: It makes you the goddess of nature and makes animals love you.
+website: https://github.com/gitatmanu
+commands:
+  artemis:
+    description: Convert yourself into Artemis Goddess.
+    usage: /<command>
