@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"me.gitatmanu.artemis"},{"l":"me.gitatmanu.artemis.core.animalsAura"},{"l":"me.gitatmanu.artemis.core.arrowParticles"},{"l":"me.gitatmanu.artemis.core.commands"}];updateSearchResults();
